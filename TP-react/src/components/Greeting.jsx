@@ -1,5 +1,5 @@
 function Greeting(props) {
-    return <h1>Bonjour, {props.name}, bienvenue sur mon super site d'actualité des jeux Nintendo</h1>;
+    return <h3>Bonjour, {props.name}. </h3>;
   }
   
   export { Greeting };
