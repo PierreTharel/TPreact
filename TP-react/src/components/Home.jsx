@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
 
-    <h1>Bienvenue sur mon site d'actualités Nintendo</h1>
+    <h1>Bienvenue sur mon site d'actualité Nintendo</h1>
 
     <Card>
         <h2>Super Mario Jamboree</h2>
