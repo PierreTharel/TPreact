@@ -19,7 +19,7 @@ export const counterSlice = createSlice({
         state.link += 1;
       },
       incrementdonkeykong: (state) => {
-        state.donkeykong += 1;
+        state.donkeykong += 5;
       },
       decrement: (state) => {
         state.value -= 1;
@@ -31,7 +31,7 @@ export const counterSlice = createSlice({
         state.link -= 1;
       },
       decrementdonkeykong: (state) => {
-        state.donkeykong -= 1;
+        state.donkeykong -= 5;
       },
     }
     
